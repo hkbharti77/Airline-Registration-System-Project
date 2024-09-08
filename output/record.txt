@@ -1,0 +1,14 @@
+_________________AIR AirLines__________
+_________________Ticket_________________
+_________________________________________
+Customer ID : 1
+Customer Name : gg
+Customer Gender : m
+Customer Age : 255
+Customer Phone Number : 390066880
+Customer Address : 
+	Description
+
+Flight : DUB - 498
+Destination		DUB
+Charges		10000
